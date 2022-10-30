@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Price: 9.99
+  frame: one
+  lense: one
+
+two:
+  Price: 9.99
+  frame: two
+  lense: two
